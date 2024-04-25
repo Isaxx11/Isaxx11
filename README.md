@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is Isabella and I like black people and programming, I also like to sleep and eat a lot of ripe bananas,
-my interests are to graduate and be economically stable in the future, in addition to learning web development,
-I like that area of ​​programming.
+My name is Isabella and i like plantains.
 
 <!--
 **Isaxx11/Isaxx11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
